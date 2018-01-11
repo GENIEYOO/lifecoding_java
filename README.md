@@ -40,15 +40,11 @@ JVM: 자바가 실제로 구동하는 환경.
 
 JDK - JRE - JVM 
 
-![java1](img/java1)
-
-
-
-
+![java1](.\img\java1.png)
 
 ![javaenv](C:\Users\Administrator\Desktop\java\javaenv.PNG)
 
-
+![](.\img\javaenv.PNG)
 
 dropbox를 사용하면
 
