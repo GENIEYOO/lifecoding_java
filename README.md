@@ -40,9 +40,9 @@ JVM: 자바가 실제로 구동하는 환경.
 
 JDK - JRE - JVM 
 
-![]()
+![java1](img/java1)
 
-![java1](C:\Users\Administrator\Desktop\java\java1.PNG)
+
 
 
 
@@ -321,7 +321,7 @@ String[] classGroup = {"최진혁", "최유빈", "한이람", "이고잉"};
 
 * 배열 : 제어(인덱스로)
 
-  ![](C:\Users\Administrator\Desktop\java\배열제어.PNG)
+  ![](img\array.PNG)
 
 
 
