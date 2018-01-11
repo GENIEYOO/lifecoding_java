@@ -42,12 +42,6 @@ JDK - JRE - JVM
 
 
 
-![java1](.\img\java1.PNG)
-
-
-
-![javaenv](.\img\javaenv.PNG)
-
 dropbox를 사용하면
 
 버전관리 용이- 버전 선택할  수 있음.
@@ -317,9 +311,9 @@ String[] classGroup = {"최진혁", "최유빈", "한이람", "이고잉"};
 
 
 
-* 배열 : 제어(인덱스로)
+* 배열 : 인덱스로 제어한다.
 
-  ![배열제어](.\img\배열제어.PNG)
+  ​
 
 
 
